@@ -1,0 +1,23 @@
+{
+  "name": "common-resetcss",
+  "version": "1.0.0",
+  "description": "我自己的css reset库",
+  "main": "reset.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czl0325/common-css.git"
+  },
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "author": "chenzhaoliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/czl0325/common-css/issues"
+  },
+  "homepage": "https://github.com/czl0325/common-css#readme"
+}
