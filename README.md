@@ -13,3 +13,10 @@ v1.0.1
 ```
 npm install common-resetcss --save
 ```
+
+
+#### 调用
+
+```
+import 'common-resetcss/reset.css'
+```
